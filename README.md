@@ -23,7 +23,7 @@ xyz printer使用一枚11LC010芯片存储料盒信息。经过各种测试加�
   
   有关该项目的任何问题快去找个作者能看见地方留言=3=
   
-  # 参考文献
+# 参考文献
   [另一种实现该功能的方法](https://github.com/voltivo/davinci_filament_reset_arduino)  
   [本项目中使用到的UNI/O驱动](https://github.com/sde1000/NanodeUNIO)  
   [MICROCHIP 11LC010 芯片资料](http://ww1.microchip.com/downloads/en/DeviceDoc/22067J.pdf)
